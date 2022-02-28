@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true effigies of our most illustrious soveraigne lord, King Charles Queene Mary, with the rest of the royall progenie. Also a compendium or abstract of their most famous geneologies and pedegrees, expressed in prose and verse. With the times and places, of their births.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95047</idno>
+            <idno type="STC">Wing T2690</idno>
+            <idno type="STC">Thomason E132_28*</idno>
+            <idno type="STC">ESTC R212757</idno>
+            <idno type="EEBO-CITATION">99871332</idno>
+            <idno type="PROQUEST">99871332</idno>
+            <idno type="VID">157287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157287)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[28*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true effigies of our most illustrious soveraigne lord, King Charles Queene Mary, with the rest of the royall progenie. Also a compendium or abstract of their most famous geneologies and pedegrees, expressed in prose and verse. With the times and places, of their births.</title>
+                  <author>Hollar, Wenceslaus, 1607-1677. engraver</author>
+                  <author>Merian, Matthaeus, 1621-1687. engraver</author>
+               </titleStmt>
+               <extent>[2], 18 p. : ports. (engravings)  </extent>
+               <publicationStmt>
+                  <publisher>for John Sweeting, at the signe of the Angell in Popes-Head Alley,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text (in verse) on numbered versos; portraits on facing rectos.</note>
+                  <note>Some ports signed "W. Hollar" or with initial "H"; plate on p. [11] has signature "M.Merian J.[i.e. Junior]".</note>
+                  <note>Imperfect; lacks the portrait of Elizabeth and the text on Anna deceased (pages 14-15).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157287:1" rendition="simple:additions"/>
+            <p>THE TRVE Effigies of our moſt Illuſtrious Soveraigne LORD, KING CHARLES QVEENE MARY, With the reſt of the Royall <hi>Progenie.</hi>
+            </p>
+            <p>Alſo a Compendium or Abſtract of their moſt famous Geneologies and Pedegrees, Expreſſed in Proſe and Verſe.</p>
+            <p>With the Times and Places, of their Births.</p>
+            <p>Printed at <hi>London</hi> for <hi>John Sweeting,</hi> at the ſigne of the Angell in Popes-Head Alley. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:157287:2"/>
+            <head>Carolus Rex.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>His ſhaddow is the briefe Epitomie</l>
+               <l>Of Ancient, Royall, true borne Majeſtie,</l>
+               <l>Our Noble <hi>Charles,</hi> his Geneologie brings</l>
+               <l>From <hi>Portugales, Caſtiles,</hi> and <hi>Navarrs</hi> Kings,</l>
+               <l>
+                  <hi>Spaine, Arragon, France, Bohem, Lombardie,</hi>
+               </l>
+               <l>
+                  <hi>Granado, Denmarke, Norway, Tuſcanie,</hi>
+               </l>
+               <l>Stout <hi>Sweathland, Poland,</hi> and <hi>Hungaria</hi>
+               </l>
+               <l>Brave <hi>Auſtria, Naples</hi> and <hi>Sicillia,</hi>
+               </l>
+               <l>
+                  <hi>Gallicia, Wales, Brittaine, Vallentia;</hi>
+               </l>
+               <l>Faire <hi>England, Scotland, Ireland, Belgia,</hi>
+               </l>
+               <l>From <hi>Germanes</hi> Empire (Weſt) &amp; th' Empire Eaſt,</l>
+               <l>From ſeaventy <hi>Caeſars</hi> he derives (at leaſt</l>
+               <l>His Royall pedigree, and from their ſtemms</l>
+               <l>Hee's ſprung (the glory of their Diadems.)</l>
+               <l>Eight hundred Kings, and Emperours (and more)</l>
+               <l>Of all thoſe Kingdomes that are nam'd before,</l>
+               <l>From all their Royall bloods, that wore thoſe Crownes,</l>
+               <l>And ſway'd thoſe Scepters, (to their high Renownes)</l>
+               <l>King <hi>Charles</hi> is ſprung, (by lineall true deſcent)</l>
+               <l>Their off-ſprings grace, their vertues ornament.)</l>
+               <l>Nine Kings of <hi>France,</hi> of <hi>Charles</hi> his name there were,</l>
+               <l>And each of them did ſeverall Titles beare,</l>
+               <l>As <hi>Charles</hi> the <hi rend="sup">1</hi> Great, The <hi rend="sup">2</hi> Greateſt, The <hi rend="sup">3</hi> Belov'd,</l>
+               <l>The <hi rend="sup">4</hi> Learn'd, The <hi rend="sup">5</hi> Wiſe, The <hi rend="sup">6</hi> Valiant (well approv'd)</l>
+               <l>The <hi rend="sup">7</hi> Noble, The <hi rend="sup">8</hi> Victorious, and the <hi rend="sup">9</hi> Good.</l>
+               <l>By theſe diſtinctions it is underſtood,</l>
+               <l>How theſe brave Princes, all were quallified,</l>
+               <l>And in Fames Booke Enrol'd, and dignified.</l>
+               <l>But our King <hi>Charles</hi> hath all theſe in his breſt,</l>
+               <l>He's Great, Learn'd, Wiſe, Belov'd, Good, and BEST.</l>
+            </lg>
+            <p>King <hi>Charles</hi> his pedigree is derived from 20 Kings of <hi>Caſtile,</hi> 30 K. of <hi>Leon.</hi> 18 K. of <hi>Portugale,</hi> 20 K of <hi>Aragon,</hi> 6 K. of <hi>Spaine,</hi> 42 K. of <hi>France</hi> 70 Emperors, 25 K. of <hi>Nables,</hi> 21 K of <hi>Bohemia,</hi> 40 Kings of <hi>Denmarke</hi> 25 K. of <hi>Norway,</hi> 12 K. of <hi>Lomb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdie,</hi> 37 K. of <hi>Hungaria</hi> 38 K. of <hi>Sweaden,</hi> 31 K. of <hi>Poland.</hi> 34 K. of <hi>Navarre,</hi> beſides from the Kings of <hi>Sicillia, Gallacia, Vallencia,</hi> with the Principa<g ref="char:EOLhyphen"/>litie and Dukedomes of <hi>Avſtria, Savoy, Wales, Brittaine,</hi> the 7 Electors of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> with many Lords of <hi>Belgia,</hi> (or the <hi>Neatherlands,</hi>) and laſtly from 50 K. of <hi>England,</hi> and 108 K. of <hi>Scotland</hi> King <hi>Charles</hi> doth derive his Royall Pede<g ref="char:EOLhyphen"/>gree. Beſides innumerable Families of Princes, Dukes, Marqueſſes, and Earles, who have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ineall relation of Conſanguinity with his Royall perſon in the moſt parts of the dominions and Kingdoms of Chriſtendome. He was borne at <hi>Dum<g ref="char:EOLhyphen"/>fi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ling</hi> in <hi>Scotland,</hi> 19 of <hi>Novem.</hi> 1600. whoſe proſperous Raigne, God long continue amongſt us.</p>
+            <pb facs="tcp:157287:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Charles I</figDesc>
+                  <head>Charles by the grace of God Kinge of England Scotland France and Ireland defendor of the faith etc.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:157287:3"/>
+            <head>Maria Regina.</head>
+            <l>
+               <seg rend="decorInit">W</seg>Ithin the ſubſtance of this figure here</l>
+            <l>The Graces and the Vertue do ſhine cleare:</l>
+            <l>The Godeſſes, the Muſes, all agree</l>
+            <l>That in her breſt their Reſidence muſt be,</l>
+            <l>From <hi>Juna,</hi> her Majeſtique Mind ſhe gain'd,</l>
+            <l>From <hi>Citherea,</hi> Beauty ſhe attain'd:</l>
+            <l>
+               <hi>Minerva (Pallas)</hi> hath inſpir'd her Heart</l>
+            <l>With Courage, in Regarding Armes and Art.</l>
+            <l>
+               <hi>Appollo,</hi> with his radient Rayes Divine</l>
+            <l>Incli'nd hir favour to the Siſters Nine;</l>
+            <l>And for a Bleſſing to this Happy Land</l>
+            <l>Shee's largely Graced, by th'Almighties Hand</l>
+            <l>To be a fruitfull Vine, whoſe Branches may</l>
+            <l>Spread Gloriouſly, as farre as <hi>Phaebus</hi> Rale.</l>
+            <l>In Goodneſſe, Greatneſſe, and in true content</l>
+            <l>May She, and They be Supereminent.</l>
+            <pb facs="tcp:157287:3" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Henrietta Maria, Queen of Charles I</figDesc>
+                  <head>Henrietta Maria by the Grace of God Queene of England Scotland France and Ireland etc.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="tcp:157287:4"/>
+            <head>Carolus Princeps.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">F</seg>Elix</hi> is Happy, and on <hi>Felix</hi> day</l>
+               <l>This Prince was born the twenty ninth of <hi>May</hi> 1630.</l>
+               <l>A Hopefull Branch of Happineſſe to Come</l>
+               <l>To us, and all disjoynted Chriſtendome;</l>
+               <l>Whoſe fruitfull Boughes, may flouriſh and Extend</l>
+               <l>To ſhelter Juſtice, and true Faith defend.</l>
+               <l>So Wiſe, Grave, Aged, he in Youth appeares,</l>
+               <l>As if his Age had twice out ſtript his Yeares:</l>
+               <l>The Abſtract of Admired Majeſty,</l>
+               <l>Rich Cabbinet of Royall modeſty</l>
+               <l>Poſſeſſing. It is bleſt Parents formes and faces,</l>
+               <l>Heire to their Crownes, their vertues and their Graces.</l>
+               <l>The valliant Black-Prince, that brave man of men,</l>
+               <l>Made <hi>France</hi> ſhake, and ſurviv'd years five times ten</l>
+               <l>And may our High-borne <hi>Charles,</hi> as long remaine</l>
+               <l>Great <hi>Brittaines</hi> Honour, and beloved Raigne.</l>
+            </lg>
+            <p>This Noble and hopefull Prince was borne on the 29 day of <hi>May,</hi> 1630. betweene the howres of 10 and 11, it being Saturday And in the Almanack it is called <hi>Faelix</hi> His birth was at S. <hi>James</hi> Houſe neare Cha<g ref="char:EOLhyphen"/>ring Croſſe. His Godfathers were <hi>Lewis</hi> the 13 the <hi>French</hi> King (now Raigning) and the other was the Prince <hi>Pallatine.</hi> The Godmother was the Queene mother of <hi>France:</hi> their Deputies there was, <hi>James</hi> Duke of <hi>Lenox</hi> (for the <hi>French</hi> King.) And <hi>James</hi> Marqueſt of <hi>Hamilton</hi> (for the <hi>Palſgrave</hi>) And for the Queene mother (the Durches of <hi>Richmond</hi> and <hi>Lenox</hi> was Deputie</p>
+            <pb facs="tcp:157287:4" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Prince Charles (the future Charles II)</figDesc>
+                  <head>Charles by the grace of God Prince of Wales Duke of Corn well <hi>York and Albany borne May</hi> 29 1630</head>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:157287:5"/>
+            <head>Maria Princeſſe.</head>
+            <l>
+               <seg rend="decorInit">F</seg>Or outward Beauty, and for Grace within</l>
+            <l>This Princeſſe is the Admired Magazin.</l>
+            <l>And though her Greatneſſe, is from High borne blood,</l>
+            <l>Pure vertue, is her beſt and greateſt good;</l>
+            <l>Milde, Modeſt, Aſſable, Belov'd, and Loving,</l>
+            <l>Diſcreete, and Debonaire, Attractive, moving</l>
+            <l>True Honour, Dutie, Service and Reſpect</l>
+            <l>From goodmen, who true goodneſſe do Affect.</l>
+            <l>(Above the ſpanne of nine yeares Pilgrimage)</l>
+            <l>Shee is a patterne for her Sex and Age:</l>
+            <l>The Modell, Medull, perfect forme and name</l>
+            <l>Of Her Grand-mother, (that moſt Princely Dame.)</l>
+            <l>And as ſhee growes in yeares, Hir vertues ſtore</l>
+            <l>Like unexhauſted Treaſure, ſtill growes more.</l>
+            <l>And could my Humble Muſe ſpeake halfe her praiſe,</l>
+            <l>My Verſe would thouſand yeares out live my dayes.</l>
+            <pb facs="tcp:157287:5"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Princess Mary of Orange (daughter of Charles I)</figDesc>
+                  <head>THE TRVE PORTRAICTVRE OF THE HIGH-BORNE Princeſſe<g ref="char:punc">▪</g> Mary Princeſſe of Orange <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> maried at White-Hall London 23 May 1641 borne y<hi rend="sup">e</hi> 4 <hi>Nou<gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>31</head>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="10" facs="tcp:157287:6"/>
+            <head>Jacobus Dux Eboracenſus</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>His Prince (much like another Sun) darts forth</l>
+               <l>Moſt gracious beames to's Dukedom &amp; the <hi>North:</hi>
+               </l>
+               <l>And makes us ſee with eyes of Expectation</l>
+               <l>Hee'le be a mighty Pillar to this Nation.</l>
+               <l>A ſtay of State, the weake ſupporting Proppe,</l>
+               <l>Whoſe fame will ſcale the height of Honours Toppe.</l>
+               <l>He hates dull idleneſſe, and loves to bee</l>
+               <l>In Action, ſuch as fits his High degree:</l>
+               <l>He will be ſtirring in ſuch Exerciſe</l>
+               <l>As well becomes his yeares, and qualities.</l>
+               <l>Surely, th'Eternall Eye of Providence</l>
+               <l>Doth watch, direct, and guard this Hopefull Prince</l>
+               <l>For ſome deſignes as may be for Heaven's Glory,</l>
+               <l>And fill the Earth with <hi>James</hi> his Noble Story.</l>
+               <l>This all true <hi>Brittaines,</hi> do expect in Love,</l>
+               <l>In hope our wiſhes are confirm'd ABOVE.</l>
+            </lg>
+            <p>The Duke dome of Yorke was but an Earledome in the raigne of K. <hi>Henry</hi> the ſecond, whoſe daughter <hi>Mauld</hi> was mother to <hi>Otho</hi> the fourth Emperour of Germany, to which <hi>Otho,</hi> K. <hi>Richard</hi> the firſt was Unckle, and he gave to the ſaid Emperour (his Kinſman) the Earledome of <hi>Yorke, Anno</hi> 1189. <hi>Edmund</hi> of <hi>Langley</hi> was fifth Son to K. <hi>Edward</hi> the third, and firſt Duke of <hi>Yorke,</hi> 1351. <hi>Edmund Plantagenet,</hi> was after his father <hi>Ed<g ref="char:EOLhyphen"/>munds</hi> deceaſe the ſecond Duke of <hi>Yorke,</hi> he was flaine at the Barraile of <hi>Agincourt,</hi> 25 <hi>Octob</hi> 1414. <hi>Rich. Plantagenet</hi> 3 Duke of <hi>Yorke,</hi> ſlaine at the Battaile of <hi>Wakefield,</hi> 1460.</p>
+            <p>
+               <hi>Richard</hi> of <hi>Shrewsbury,</hi> ſecond Son to K. <hi>Edward</hi> the 4, was the fourth Duke of <hi>Yorke,</hi> and murthered by command of his cruell Unckle K. <hi>Ric.</hi> the thrird. <hi>Henry</hi> ſecond Son to K. <hi>Henry</hi> the ſeventh, was created the fifth Duke of <hi>Yorke,</hi> he was afterwards K. <hi>Henry</hi> the 8. <hi>Charles</hi> ſecond Son to K. <hi>James,</hi> was (by his father) created the 6 Duke of <hi>Yorke,</hi> on Twelf day, 1604. he was after Prince of <hi>Wales,</hi> 3 <hi>Novemb.</hi> 1616. He is now our graci<g ref="char:EOLhyphen"/>ous King, and long may he continue ſo in all proſperity. <hi>James</hi> now <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving, the third ſonne of K. <hi>Charles,</hi> being 7 yeares of age, is the ſeave<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Duke of <hi>Yorke</hi> this yeare 1641,</p>
+            <pb facs="tcp:157287:6" rendition="simple:additions"/>
+            <figure>
+               <figDesc>portrait of Prince James, Duke of York (the future James II)</figDesc>
+               <head>THE HIGH BORNE PRINCE IAMES DVKE OF YORKE. borne October — the 13. 1633.</head>
+               <p>Sould by Tho: Ienner af the South Entry of the Exchange.</p>
+            </figure>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:157287:7"/>
+            <head>Elizabeth Princeſſe.</head>
+            <l>
+               <seg rend="decorInit">H</seg>Ere is the Grace of Natures Workemanſhip</l>
+            <l>Wherein her ſelfe, her ſelfe ſhe did out-ſtrip:</l>
+            <l>And were the Muſes all in one combin'd</l>
+            <l>They could not Blazon her Heroicke minde</l>
+            <l>Perfections Maſter-peece, Arts wonderment</l>
+            <l>Heavens Darling, and great <hi>Brittaines</hi> Ornament</l>
+            <l>
+               <hi>Elizabeth</hi> the Faire, the Rare, the Great</l>
+            <l>In Birth and Blood, and vertues full repleate,</l>
+            <l>An high priz'd Jewell, an unvallued Jem</l>
+            <l>(Of more worth than a Kingly Diadem)</l>
+            <l>If Heaven be pleas'd ſuch bleſſings to beſtow</l>
+            <l>That grace may grow as ſhe in yeares doe grow,</l>
+            <l>Her name and fame may curbe the power of <hi>Rome</hi>
+            </l>
+            <l>And freely ſpread Gods word through Chriſtendome.</l>
+            <l>Meanetime let's reſt in hope, through Heavens High hand,</l>
+            <l>This Princeſſe ſhall adde Bleſſings to this Land.</l>
+            <pb facs="tcp:157287:7"/>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <p>
+               <figure>
+                  <figDesc>portrait of Lady Anna (infant daughter of Charles I)</figDesc>
+                  <head>Ladey Anna Died the 8<hi rend="sup">th</hi> of December-1640</head>
+                  <p>
+                     <hi>The Purtrature of the high borne Princes the Lady</hi> Anna. <hi>borne in the mounth of March 17 in the yeare of oure Lord</hi> 1636</p>
+                  <p>
+                     <hi>ſold by Tho: Jenner at the Royall Exchange.</hi> 1640.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="16" facs="tcp:157287:8" rendition="simple:additions"/>
+            <head>Henry Duke of Gloceſter. borne, Iuly. <hi>8. 1640.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">K</seg>Ing <hi>Charles</hi> (by Proclamation) did command</l>
+               <l>A Faſt t'avert Gods judgements from this Land</l>
+               <l>His zealous Royall ſelfe did lead the way,</l>
+               <l>In true Humility to Faſt and Pray:</l>
+               <l>And preſently Gods gracious Excellence</l>
+               <l>Vouchſaf'd to give us loving Audience;</l>
+               <l>For note th'acceptance Deign'd from Heaven above</l>
+               <l>(Whom King and People did in Prayers move)</l>
+               <l>That ſuch a Bleſſing did from thence returne,</l>
+               <l>That preſently this ſweete young Prince was borne,</l>
+               <l>Upon that Faſting day, <hi>HE</hi> was our Feaſt</l>
+               <l>Of Hopefull joy, a good preſage of Reſt,</l>
+               <l>Our Faſt and Prayers (though weake, yet up they went)</l>
+               <l>And God was pleas'd, and this bleſt Token ſent,</l>
+               <l>Long may <hi>HE</hi> live, (directed by Gods grace)</l>
+               <l>Joy to <hi>HIS</hi> Parents and their numerous Race.</l>
+            </lg>
+            <p>
+               <hi>Henry</hi> of Oatelands (the place of his birth) Duke of <hi>Gloceſter,</hi> 4. Son to K. <hi>Charles,</hi> was borne on the day of the Generall Faſt, Wedneſday, 8. <hi>July,</hi> 1640. In the raigne of K. <hi>Henry</hi> the firſt, <hi>Gloceſter</hi> was an Earle<g ref="char:EOLhyphen"/>dome, and the firſt Earle was <hi>Robert</hi> ſurnamed the Conſull of <hi>Gloceſter.</hi> He was halfe brother to <hi>Maud</hi> the Empreſſe, and Son to <hi>Henry</hi> the 1. The ſe<g ref="char:EOLhyphen"/>cond Earle of <hi>Gloceſter</hi> was <hi>William,</hi> ſon to the foreſaid Earle <hi>Robert,</hi> this <hi>William</hi> was alſo Earle of <hi>Glamorgan;</hi> The third Earle was <hi>John,</hi> 4. Son of K. <hi>Henry</hi> the 2. who after was K. <hi>John. Almericke Mountford</hi> was 4. Earle of <hi>Gloceſter. Geffrey de Mandevile</hi> was 5. Earle. <hi>Gilbert de Clare,</hi> 6. Earle of <hi>Gloceſter</hi> &amp; <hi>Hertford, Richard de Clare</hi> 7. Earle. <hi>Gilbert de Clare</hi> (ſe<g ref="char:EOLhyphen"/>cond of that name) was 8. Earle of <hi>Gloceſter. Ralph de Mount hermer,</hi> 9. Earle, <hi>Gilbert de Clare</hi> (third of that name) and 10. Earle of <hi>Gloceſter. Hugh Audley</hi> 11 Earle. <hi>Thom.</hi> of <hi>Woodſtocke</hi> 6. Son of K. <hi>Edward</hi> 3. was the firſt Duke of <hi>Gloceſter,</hi> created in the 9 yeare of K. <hi>Richard</hi> 3. After that <hi>Tho.</hi> Lord <hi>Spencer</hi> was the 12 Earle, beheaded at <hi>Briſtoll</hi> in th<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Richard</hi> 2. <hi>Anno</hi> 1400. <hi>Humphrey</hi> 4. Son of K. <hi>Henry</hi> 4, was ſecond Duke of <hi>Gloceſter,</hi> he was called the good Duke <hi>Humphrey,</hi> he was murthered a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Bury Alby,</hi> and buryed (not in St. <hi>Pauls</hi> as is fabled, but) at St. <hi>Albones. Ri<g ref="char:EOLunhyphen"/>chard</hi> 3 Duke of <hi>Gloceſter,</hi> was brother to King <hi>Edward</hi> the fourth.</p>
+            <pb facs="tcp:157287:8"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Prince Henry, Duke of Gloucester (son of Charles I)</figDesc>
+                  <head>Charles Prince of Great Britaine, borne, baptiz'd, and Buried. May 13, 1629</head>
+                  <q>IN HONOR CARO: PRINC: MAG BRIFRA: ET HIBERN</q>
+                  <figure>
+                     <q>NULLI HAC TENUS ANGLORUM</q>
+                  </figure>
+                  <l>
+                     <hi>What doth Kingdomes happifie,</hi>
+                  </l>
+                  <l>
+                     <hi>But a bles't Posteritie?</hi>
+                  </l>
+                  <l>
+                     <hi>THIS, this Realme, Earths</hi> Goshen <hi>faire</hi>
+                  </l>
+                  <l>Europes Garden, <hi>makes most rare</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe most royall Princely Stemme</hi>
+                  </l>
+                  <l>
+                     <hi>(To adorne theire Diadem,)</hi>
+                  </l>
+                  <l>Two <hi>sweet</hi> May-Flowers <hi>did produce</hi>
+                  </l>
+                  <l>
+                     <hi>Sprung from</hi> Rose &amp; Flower-de-Luce</l>
+                  <p>
+                     <hi>The most hopefull and high borne</hi> Prince, Henry Duke <hi>of</hi> Gloceſter <hi>who was borne at</hi> Otlandes <hi>the eight of July. Anno.</hi> 1640.</p>
+                  <p>Sould by Tho: Tenner at the South entry of the Exchange.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="18" facs="tcp:157287:9"/>
+            <head>Vpon the Life, Death, and Buriall of Prince <hi>Charles,</hi> the firſt borne Sonne of our moſt gratious King and Queene, who was borne on the 13 of <hi>May,</hi> 1629. and dyed the ſame day: Buried at <hi>Weſtminſter.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">S</seg>Weete Royall Budde that had no time to bloome,</l>
+            <l>Snatcht (in one day) from's cradle, to his tombe,</l>
+            <l>He (on this mortall Stage) ſcarce ſaw the light</l>
+            <l>Before Death laid his Corps in endleſſe night.</l>
+            <l>His meaneſt part of Earth, the earth containes,</l>
+            <l>His bleſſed Spirit in laſting Glory raignes.</l>
+            <l>God was moſt gratious to this hopefull Prince,</l>
+            <l>Before he knew this world, to take him hence:</l>
+            <l>He, to a tranſitory Crowne was Heire,</l>
+            <l>Hath got a Crowne immortall for his ſhare.</l>
+            <l>For earths vaine hope, He reall heav'n poſſeſt,</l>
+            <l>And freed from worldly Croſſes, ever Bleſt.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157287:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
